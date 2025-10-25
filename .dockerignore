@@ -1,0 +1,19 @@
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment & config overrides
+.env
+*.env
+
+# VCS / tooling noise
+.git
+.gitignore
+.DS_Store
+
+*.docx
